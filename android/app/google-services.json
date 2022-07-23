@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000595707595",
+    "project_id": "e-waste-project-b3e89",
+    "storage_bucket": "e-waste-project-b3e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000595707595:android:64b8294ef6184674ce6d4e",
+        "android_client_info": {
+          "package_name": "com.greenit.e_waste_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000595707595-9ori7vmmcc04h4qjfi1ti9u1vs27ma55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenit.e_waste_project",
+            "certificate_hash": "af0fafdd025d9899a0cc59407635b9976ae3db65"
+          }
+        },
+        {
+          "client_id": "1000595707595-tt1l181q08cul6tmmvm2a5fvuk43snkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvlQNsQPcBl5u72qvysvgfOoV0L1baXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000595707595-tt1l181q08cul6tmmvm2a5fvuk43snkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
